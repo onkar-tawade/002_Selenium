@@ -1,0 +1,16 @@
+package _21ShadowDOMandSVG;
+
+public class shadowdom {
+
+	public static void main(String[] args) {
+
+		/// DOM:- Document Object Model-------> DOM created when we inspect the webpage at runtime when we hit the URL.......Basic DOM....Main DOM...
+	    /// Shadow DOM:- also called subDOM...DOM contains another DOM is called Shadow DOM..........
+		/// Document contain Shadow host.....Shadow host contain the Shadow tree.....
+		/// Shadow tree contains the element called Shadow Element.... & that all contains elements call shadow tree...
+		/// We can not directly locate the Shadow element....only using CSS selector we locate it...
+		
+		
+	}
+
+}
