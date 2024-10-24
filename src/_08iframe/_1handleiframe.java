@@ -49,7 +49,7 @@ public class _1handleiframe {
         JavascriptExecutor js = (JavascriptExecutor)driver;//// here we use javascript exicutor....
         js.executeScript("arguments[0].click();", dropdown1);/// here use method of javascript------------>"arguments[0].click();", dropdown1
         
-        driver.switchTo().defaultContent();
+//        driver.switchTo().defaultContent();
 	}
 
 }
